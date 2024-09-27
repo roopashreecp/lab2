@@ -1,0 +1,4 @@
+main()
+{
+		all the best
+}
